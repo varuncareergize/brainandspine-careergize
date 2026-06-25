@@ -10,8 +10,7 @@ const therapists = [
     qualification: 'BPT, MPT (Cardio),CYT, CDNT',
     experience: '20 years',
     bio: 'Specialized in shoulder pain management and rehabilitation with over two decades of clinical expertise.',
-    // Using the image URL you provided earlier
-    image: "https://scontent.fblr2-3.fna.fbcdn.net/v/t39.30808-6/547172368_24496180043373408_8659592695864011335_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=-P_qc15nRsgQ7kNvwE8y8y_&_nc_oc=AdkUrad-b1-WMmLcn8KyizeY-PalFLpz3WeucogeamdVflN7OSR8ZOAY2GwC86v8TWk&_nc_zt=23&_nc_ht=scontent.fblr2-3.fna&_nc_gid=NMH7hRxGgaAqu93PFQz0mA&oh=00_AfuNo319kiBqZiPJRgLEVp1TtNjB1CD7kxSfTt_q9vLUTQ&oe=69A22E15"
+    image: "/images/ajaylal.jpg"
   },
 ] 
 
