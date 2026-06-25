@@ -123,10 +123,14 @@ export function Footer() {
           <p className="text-center sm:text-left">
             © {currentYear} Brain & Spine Physio Clinic. Since 2019.
           </p>
-          <div className="flex items-center gap-6">
+          <div className="flex flex-col sm:flex-row items-center gap-6">
             <div className="flex items-center gap-2 text-slate-400">
               Made with <Heart size={14} className="text-[#F58220] fill-[#F58220]" /> in Kerala
             </div>
+            <div className="hidden sm:block w-px h-4 bg-slate-700"></div>
+            <p className="text-slate-400">
+              Powered by <span className="text-[#F58220] font-semibold">Careergize</span>
+            </p>
           </div>
         </div>
       </div>
